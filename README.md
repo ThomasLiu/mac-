@@ -6,7 +6,9 @@ mac开发装机
 https://blog.csdn.net/boyqicheng/article/details/71481213?utm_source=itdadao&utm_medium=referral
 
 ### 安装Mysql
--- brew install mysql  
+```
+$ brew install mysql  
+```
 
 
 ### Navicat Premium Mac 12 
