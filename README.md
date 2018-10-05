@@ -46,4 +46,27 @@ gm -version
 brew install ImageMagick
 ```
 
+### 安装[VS Code](https://code.visualstudio.com) IDE
+自行到官网下载安装
+
+配置 vsc 命令在控制台快速打开项目
+1、打开用户配置文件：
+```
+vim ~/.bash_profile
+```
+2、添加别名
+```
+#配置Visual Studio Code的命令行方式
+alias vsc="'/Applications/Visual Studio Code.app/Contents/Resources/app/bin/code'"
+```
+如果不添加别名，也可以将路径添加到环境变量下
+```
+VSC_BIN=/Applications/Visual Studio Code.app/Contents/Resources/app/bin
+PATH=$VSC_BIN:$PATH
+export PATH
+```
+3、保存后回到命令行终端执行命令使其生效：
+```
+source ~/.bash_profile
+```
 
