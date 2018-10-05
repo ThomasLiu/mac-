@@ -70,3 +70,7 @@ export PATH
 source ~/.bash_profile
 ```
 
+#### VScode 插件工具集
+https://blog.csdn.net/qq_41164267/article/details/82767554
+
+
