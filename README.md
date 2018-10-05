@@ -43,7 +43,7 @@ gm -version
 
 ### 安装 [ImageMagick](https://www.imagemagick.org) 用来做图片处理
 ```
-yum install ImageMagick
+brew install ImageMagick
 ```
 
 
