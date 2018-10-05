@@ -73,4 +73,7 @@ source ~/.bash_profile
 #### VScode 插件工具集
 https://blog.csdn.net/qq_41164267/article/details/82767554
 
+#### Eslint 和 VScode的相关配置
+https://segmentfault.com/a/1190000009077086?from=timeline&isappinstalled=0
+
 
