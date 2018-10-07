@@ -12,6 +12,14 @@ https://blog.csdn.net/cheng649090216/article/details/79246333
 1. https://www.jianshu.com/p/f42785e55b6b
 2. https://blog.csdn.net/xhd731568849/article/details/79751188
 
+#### 常见问题
+##### 使用Navicat Premium 第一次链接时
+``` 
+2059 - Authentication plugin 'caching_sha2_password' cannot be loaded: dlopen(../Frameworks/caching_sha2_password.so, 2): image not found
+```
+https://blog.csdn.net/qq_20009015/article/details/81463315
+
+
 ### 安装Git 
 在命令行输入 git -v 就会自动提示引导安装
 
