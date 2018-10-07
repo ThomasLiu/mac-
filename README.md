@@ -6,9 +6,7 @@ mac node.js 开发装机
 https://blog.csdn.net/boyqicheng/article/details/71481213?utm_source=itdadao&utm_medium=referral
 
 ### 安装Mysql
-```
-brew install mysql  
-```
+https://blog.csdn.net/cheng649090216/article/details/79246333
 
 ### Navicat Premium Mac 12 
 1. https://www.jianshu.com/p/f42785e55b6b
